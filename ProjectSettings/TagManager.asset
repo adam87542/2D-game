@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Backround
+  - Layer 1
+  - latter
+  - Enemy
+  - Spikes
+  - Pickups
+  - EProjectiles
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backround
+    uniqueID: 2420238565
+    locked: 0
+  - name: Walls
+    uniqueID: 1681810853
+    locked: 0
+  - name: Pickups
+    uniqueID: 2956536225
+    locked: 0
+  - name: EProjectiles
+    uniqueID: 4157637959
+    locked: 0
+  - name: latter
+    uniqueID: 2195521049
+    locked: 0
+  - name: Player
+    uniqueID: 4270965407
+    locked: 0
+  - name: Spikes
+    uniqueID: 2171044213
+    locked: 0
+  - name: Enemy
+    uniqueID: 3118284983
+    locked: 0
+  - name: Layer 1
+    uniqueID: 1634154221
+    locked: 0
